@@ -1,0 +1,23 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: #A04000;
+    font-family: Verdana, sans-serif;
+    }
+ 
+h2{
+        font-size: 30px;
+        text-align: left;
+        color: #1A5276;
+        font-family: Verdana, sans-serif;
+        }  
+
+ p{
+    font-size: 20px;
+    text-align: left;
+    font-family: Courier New, sans-serif;
+    }
+
+body {
+    background-color: #EBF5FB;
+    }
